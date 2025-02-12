@@ -9,8 +9,7 @@ I enjoy working with cutting-edge technologies and am constantly exploring new i
 - **Languages:**  
  ![Python](https://img.shields.io/badge/Code-Python-blue) ![HTML5](https://img.shields.io/badge/Code-HTML5-orange) ![CSS3](https://img.shields.io/badge/Code-CSS3-blue)
   
-- **Frameworks & Libraries:**  
-  ![Node.js](https://img.shields.io/badge/Framework-Node.js-green)
+ 
 
 - **Tools & Platforms:**  
   ![Git](https://img.shields.io/badge/Tools-Git-orange) 
